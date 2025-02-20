@@ -1,4 +1,4 @@
-# secure data hiding in images using steganography
+# Secure Data Hiding in Images using Steganography
 
 ## 📌 Overview
 This project implements image steganography using Python and OpenCV. It allows users to hide secret messages inside an image while ensuring security with passcode protection for decryption.
