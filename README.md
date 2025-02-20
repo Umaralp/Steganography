@@ -4,13 +4,17 @@
 This project implements image steganography using Python and OpenCV. It allows users to hide secret messages inside an image while ensuring security with passcode protection for decryption.
 
 ## 📂 Project Structure
-📜 **encryption.py** – Encrypts a message inside an image and saves the output.
+🛡️ **encryption.py** – Encrypts a message inside an image and saves the output.
 
-📜 **decryption.py** – Decrypts the hidden message from the encrypted image.
+🔓 **decryption.py** – Decrypts the hidden message from the encrypted image.
+
+📊 **Steganography-ppt.pptx** – Presentation explaining the project.
 
 🖼️ **mypic.png** – The original image used for hiding the message.
 
 🖼️ **encryptedImage.png** – The output image containing the hidden message.
+
+🖼️ **Screenshot2025-02-20 153400.png** – Screenshots related to the project.
 
 🔑 **passcode.txt** – Stores the passcode for decryption.
 
