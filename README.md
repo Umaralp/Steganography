@@ -45,7 +45,7 @@ Ensure you have Python installed along with the required libraries
 2️⃣ Run the encryption script
 
 3️⃣ Enter the secret message and set a passcode
-.
+
 4️⃣ The encrypted image (encryptedImage.png) is generated successfully.
 
 
