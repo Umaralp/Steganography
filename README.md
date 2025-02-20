@@ -27,6 +27,8 @@ This project implements image steganography using Python and OpenCV. It allows u
 
 ✔️ **Open Source** – Free to modify and expand under the GPL-3.0 license.
 
+## ✨ Project Screenshot
+
 ![Project Screenshot](https://github.com/Umaralp/Steganography/blob/main/Screenshot%202025-02-20%20153400.png)
 
 ## 🚀 Installation & Usage
