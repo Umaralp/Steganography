@@ -32,7 +32,7 @@ This project implements image steganography using Python and OpenCV. It allows u
 ### 🔹 Prerequisites
 Ensure you have Python installed along with the required libraries
 
-[pip install opencv-python numpy]
+[pip install cv2]
 
 ### 🔹 Encryption Process
 
