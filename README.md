@@ -67,4 +67,6 @@ This project is licensed under the GNU GPL-3.0 License.
 
 ## 👨‍💻 Contributing
 
+Clone the repository: git clone https://github.com/Umaralp/Steganography.git
+
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository and submit a pull request.
